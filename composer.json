@@ -1,11 +1,11 @@
 {
-    "name": "spatie/laravel-sitemap",
+    "name": "gdbhosale/laravel-sitemap",
     "description": "Create and generate sitemaps with ease",
     "keywords": [
         "spatie",
         "laravel-sitemap"
     ],
-    "homepage": "https://github.com/spatie/laravel-sitemap",
+    "homepage": "https://github.com/gdbhosale/laravel-sitemap",
     "license": "MIT",
     "authors": [
         {
